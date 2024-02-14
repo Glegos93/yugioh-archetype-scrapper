@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import urllib.parse
 
 def scrape_wikia(url):
     headers = {
@@ -15,20 +16,20 @@ def scrape_wikia(url):
     
     return titles
 
-# Define the URLs
-urls = [
-    'https://yugipedia.com/wiki/Category:Archetypes',
-    'https://yugipedia.com/index.php?title=Category:Archetypes&pagefrom=Fabled#mw-pages',
-    'https://yugipedia.com/index.php?title=Category:Archetypes&pagefrom=Nekroz#mw-pages',
-    'https://yugipedia.com/index.php?title=Category:Archetypes&pagefrom=T.G.#mw-pages'
-]
+# Start with the initial URL
+url = 'https://yugipedia.com/wiki/Category:Archetypes'
 
 # Use the function for each URL
 titles_set = set()
-for url in urls:
+for _ in range(4):
     titles = scrape_wikia(url)
     for title in titles:
         titles_set.add(title)
+    
+    # Generate the next URL based on the second to last title
+    if len(titles) >= 2:
+        entry = titles[-2]
+        url = f'https://yugipedia.com/index.php?title=Category:Archetypes&pagefrom={urllib.parse.quote(entry)}#mw-pages'
 
 # Convert the set to a list and sort it
 titles_list = sorted(list(titles_set))
