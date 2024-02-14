@@ -18,18 +18,24 @@ def scrape_wikia(url):
 # Define the URLs
 urls = [
     'https://yugipedia.com/wiki/Category:Archetypes',
-    'https://yugipedia.com/index.php?title=Category:Archetypes&pagefrom=Fire+Fist#mw-pages',
+    'https://yugipedia.com/index.php?title=Category:Archetypes&pagefrom=Fabled#mw-pages',
     'https://yugipedia.com/index.php?title=Category:Archetypes&pagefrom=Nekroz#mw-pages',
     'https://yugipedia.com/index.php?title=Category:Archetypes&pagefrom=T.G.#mw-pages'
 ]
 
 # Use the function for each URL
-total_count = 0
+titles_set = set()
 for url in urls:
     titles = scrape_wikia(url)
     for title in titles:
-        print(title)
-        total_count += 1
+        titles_set.add(title)
+
+# Convert the set to a list and sort it
+titles_list = sorted(list(titles_set))
+
+# Print the titles
+for title in titles_list:
+    print(title)
 
 # Print the total count
-print(f'Total count: {total_count}')
+print(f'Total count: {len(titles_list)}')
