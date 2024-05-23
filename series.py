@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import urllib.parse
 
-def scrape_wikia(url):
+def scrape_series(url):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
     }
@@ -22,7 +22,7 @@ url = 'https://yugipedia.com/wiki/Category:Series'
 # Use the function for each URL
 titles_set = set()
 for _ in range(4):
-    titles = scrape_wikia(url)
+    titles = scrape_series(url)
     for title in titles:
         titles_set.add(title)
     
