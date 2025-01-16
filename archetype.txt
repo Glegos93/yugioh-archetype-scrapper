@@ -16,18 +16,15 @@ amazement
 amazoness
 amorphage
 ancient gear
-ancient gear golem (archetype)
 ancient warriors
-apoqliphrt
+apoqliphort
 appliancer
 aqua jet (archetype)
 aquaactress
 aquamirror
 aquarium
 arcana force
-archetype
 archfiend
-argostars
 armed dragon
 armored xyz (archetype)
 aroma
@@ -67,14 +64,12 @@ celtic guard
 centur-ion
 change
 chaos
-chaos (series)
 charmer
 chemicritter
 chronomaly
 chrysalis
 cipher
 cipher dragon
-clear
 clear wing
 cloudian
 code talker (archetype)
@@ -102,9 +97,9 @@ dark contract
 dark magician (archetype)
 dark magician girl (archetype)
 dark scorpion
-dark tuner (archetype)
 dark world
 darklord
+darkness (archetype)
 deskbot
 despia
 destiny hero
@@ -122,13 +117,11 @@ doodle beast
 doodlebook
 dracoslayer
 dracoverlord
-dragon ruler
 dragonmaid
 dragunity
 dream mirror
 drytron
 dual avatar
-duel dragon
 duston
 earthbound
 earthbound immortal
@@ -139,7 +132,6 @@ eldlixir
 elemental hero
 elemental lord
 elementsaber
-emblema
 empowered warrior
 endymion
 evil eye
@@ -170,7 +162,6 @@ flower cardian
 fluffal
 forbidden (archetype)
 forbidden one
-fortress whale (archetype)
 fortune fairy
 fortune lady
 fossil
@@ -182,7 +173,6 @@ fusion dragon
 g golem
 gadget
 gagaga
-gaia the dragon champion (archetype)
 gaia the fierce knight (archetype)
 galaxy
 galaxy-eyes
@@ -218,12 +208,12 @@ harpie
 hazy
 hazy flame
 heart
-helios
 heraldic beast
 heraldry
 hero
 heroic
 heroic challenger
+hex-sealed fusion
 hieratic
 hole
 horus
@@ -240,7 +230,6 @@ infernoid
 infestation
 infinitrack
 inmato (archetype)
-insect queen (archetype)
 invoked
 inzektor
 iron chain
@@ -249,7 +238,6 @@ junk
 jurrac
 kaiju
 kairyu-shin (archetype)
-kangaroo
 karakuri
 kashtira
 ki-sikil
@@ -315,7 +303,6 @@ millennium
 mimighoul
 mireniamu
 mist valley
-mitsurugi
 mokey mokey (archetype)
 monarch (spell/trap archetype)
 morganite
@@ -375,7 +362,6 @@ performapal
 phantasm
 phantasm spiral
 phantom beast
-phantom butterfly
 phantom knights
 photon
 plunder patroll
@@ -426,7 +412,6 @@ s-force
 saber
 salamandra (archetype)
 salamangreat
-sangen
 scareclaw
 schoolwork
 scrap
@@ -504,7 +489,6 @@ tenyi
 the agent
 the phantom knights
 the weather
-the winged dragon of ra (archetype)
 therion
 thunder dragon (archetype)
 time thief
@@ -512,7 +496,6 @@ timelord
 tindangle
 tistina
 toon
-topologic
 toy
 trap hole (archetype)
 traptrix

@@ -19,8 +19,8 @@ def read_from_file(filename):
 
 # Define the URLs
 # Do not change the following URLs
-archetype_url = 'https://yugipedia.com/wiki/Category:archetypes'
-series_url = 'https://yugipedia.com/wiki/Category:series'
+archetype_url = 'https://yugipedia.com/wiki/Category:TCG_and_OCG_archetypes'
+series_url = 'https://yugipedia.com/wiki/Category:TCG_and_OCG_archetypes'
 current_file = 'current.txt'
 series_url_anime_manga = 'https://yugipedia.com/wiki/Category:Anime_and_manga_only_series'
 series_url_rush_duel = 'https://yugipedia.com/wiki/Category:Rush_Duel_series'

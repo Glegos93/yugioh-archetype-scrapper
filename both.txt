@@ -1,20 +1,13 @@
-"c"
--eyes dragon
 /assault mode
-25th anniversary monsters
 @ignister
-a-to-z
 a.i.
 abyss actor
 abyss script
 abyss-
 adamancipator
 advanced crystal beast
-adventurer
 aesir
 aether
-aged counterpart
-albaz dragon
 alien
 allure queen
 ally of justice
@@ -22,13 +15,8 @@ altergeist
 amazement
 amazoness
 amorphage
-ancient fairy dragon (series)
 ancient gear
-ancient gear golem (archetype)
-ancient treasure
 ancient warriors
-anotherverse
-ape
 apoqliphort
 appliancer
 aqua jet (archetype)
@@ -36,11 +24,8 @@ aquaactress
 aquamirror
 aquarium
 arcana force
-archetype
 archfiend
-argostars
 armed dragon
-armor ninja
 armored xyz (archetype)
 aroma
 artifact
@@ -49,19 +34,11 @@ ashened
 assault blackwing
 atlantean
 attraction
-attribute booster
-attribute knight
-attribute reptile
-attribute spirit
-attribute summoner
 azamina
 b.e.s.
-baboon of the forest
-backup
 bamboo sword
 barbaros
 barian's
-barrier statue
 batteryman
 battleguard
 battlewasp
@@ -69,176 +46,109 @@ battlin' boxer
 battlin' boxing
 beast's battle
 beetrooper
-black (series)
 black luster soldier (archetype)
 blackwing
 blaze accelerator (archetype)
 blue tears
 blue-eyes
-bombardment
 bonding
-book of
-boot-up
 borrel
 bounzer
 branded
-broken world
-bugroth
 bujin
 burning abyss
-burning skull
 buster blader (archetype)
 butterspy
 bystial
-c/c
-captain
-cataclysmic
-cataclysmic charmer
 celtic guard
-cenozoic fossil knight
 centur-ion
 change
 chaos
-chaos (series)
 charmer
 chemicritter
-chimera
-chimeratech
 chronomaly
 chrysalis
-chthonian
 cipher
 cipher dragon
-circular
-clear
 clear wing
 cloudian
-coach
 code talker (archetype)
 codebreaker
 constellar
-contact (series)
-corn
-cosmic synchro monster
 counter (archetype)
-counter fairy
-crashbug
-creator
 crusadia
 crystal
 crystal beast
 crystron
 cubic
-cular
-cup
-cupid
-curse of dragon (series)
 cxyz
 cyber
 cyber angel
 cyber dragon (archetype)
-cyber girl
 cyberdark
 cyberdark (spell/trap archetype)
 cybernetic
 cynet
-d.d.
 d/d
 d/d/d
 danger!
 dante
-dark blade (series)
 dark contract
-dark counterpart
-dark lucius
 dark magician (archetype)
 dark magician girl (archetype)
 dark scorpion
-dark tuner (archetype)
 dark world
 darklord
 darkness (archetype)
-deep sea
-designator
 deskbot
 despia
 destiny hero
 destruction sword
 diabell
 diabellstar
-digital bug
-dimension (series)
 dinomist
 dinomorphia
 dinowrestler
-divine dragon
-dizzy
 djinn
-djinn of rituals
-dna
 dododo
-dog marron
 dogmatika
 doll monster
 doodle beast
 doodlebook
-doriado (series)
-draconia
 dracoslayer
 dracoverlord
-dragon ninja
-dragon ruler
 dragonmaid
 dragunity
-drain
 dream mirror
 drytron
 dual avatar
-duel dragon
-duel winner
 duston
 earthbound
 earthbound immortal
 edge imp
-effigy
-egyptian god
 elder entity
 eldlich
 eldlixir
-element
 elemental hero
 elemental lord
 elementsaber
-emblema
-empower
 empowered warrior
 endymion
-entity
-evigishki
 evil eye
 evil hero
 evil★twin
-evo-
-evol
 evolsaur
 evoltile
 evolution pill
-evolving numbers
 evolzar
-exchange of the spirit (series)
 exodd
 exodia
 exosister
 eyes restrict
 f.a.
 fabled
-fairy tail
-fairy tale (anime)
 familiar-possessed
-fan-made cards
 favorite
-felgrand
-field searcher
 fiendsmith
 fire fist
 fire formation
@@ -246,57 +156,39 @@ fire king
 fire king avatar
 firewall (archetype)
 fishborg
-flame swordsman (series)
 flamvell
-fleur
 floowandereeze
 flower cardian
 fluffal
-foolish
 forbidden (archetype)
 forbidden one
-force
-fortress whale (archetype)
 fortune fairy
 fortune lady
 fossil
-four dimensional dragons
-freed
 frightfur
 frog
-from the underworld
 fur hire
 fusion (archetype)
 fusion dragon
 g golem
-g.o.d. (series)
 gadget
 gagaga
-gaia knight
-gaia the dragon champion (archetype)
 gaia the fierce knight (archetype)
 galaxy
 galaxy-eyes
 galaxy-eyes tachyon dragon
 gandora (archetype)
 gate guardian (archetype)
-gearfried
 geargia
 geargiano (archetype)
-gem dragon
 gem-
 gem-knight
 generaider
 genex
-genex ally
-geometric knight
 ghostrick
 ghoti
-gigo
 gimmick puppet
 gishki
-gizmek
-glacial beast
 gladiator
 gladiator beast
 goblin
@@ -309,21 +201,13 @@ gouki
 gransolfachord
 gravekeeper's
 graydle
-greed (series)
-grepher
 guardian
-guardragon
-gun dragon
-gun ogre
 gunkan
 gusto
 harpie
 hazy
 hazy flame
 heart
-hecate
-helios
-herald
 heraldic beast
 heraldry
 hero
@@ -334,14 +218,11 @@ hieratic
 hole
 horus
 horus the black flame dragon
-huge revolution (series)
 hyperion
 ice barrier
 icejade
 igknight
 impcantation
-inca
-infection
 infernity
 infernoble arms
 infernoble knight
@@ -349,28 +230,20 @@ infernoid
 infestation
 infinitrack
 inmato (archetype)
-inpachi (series)
-insect queen (archetype)
 invoked
 inzektor
 iron chain
-itsu
-jar
 jinzo (archetype)
 junk
 jurrac
 kaiju
 kairyu-shin (archetype)
-kangaroo
 karakuri
 kashtira
-keeper
 ki-sikil
-king rex (series)
 knightmare
 koa'ki meiru
 koala
-konami arcade games
 kozmo
 krawler
 kuriboh (archetype)
@@ -381,24 +254,17 @@ laundsallyn
 laval
 legendary dragon
 legendary knight
-legendary planet
-legendary six samurai
 libromancer
-light and darkness dragon (series)
-lightray
 lightsworn
 lil-la
 live☆twin
-loan
 lswarm
 lunalight
 lv
 lyrilusc
 machina
 machine angel
-machine king (series)
 madolche
-madoor
 magical musket
 magician
 magician girl
@@ -408,20 +274,13 @@ magna warrior
 magnet warrior
 majespecter
 majestic
-majestic mech
-maju
 malefic
 malicevorous
 maliss
-man-eater bug (series)
 mannadium
 marincess
-martial art spirit
-mask
 masked hero
-masked knight
 materiactor
-material (series)
 mathmech
 mayakashi
 mecha phantom beast
@@ -436,7 +295,6 @@ melodious
 melodious maestra
 memento
 mermail
-mesozoic fossil knight
 metalfoes
 metalmorph (archetype)
 metaphys
@@ -444,29 +302,17 @@ mikanko
 millennium
 mimighoul
 mireniamu
-mirror trap (series)
 mist valley
-mitsurugi
 mokey mokey (archetype)
 monarch (spell/trap archetype)
-monk
 morganite
 morphtronic
-moth
-motor worm
 mulcharmy
-mystic
-mystic (manga)
-mystic swordsman
 mystical beast of the forest
 mystical spirit of the forest
 mythical beast
-mythical dragon
-mythyrian numbers
 myutant
-name-inverted spiritualist
 naturia
-necro
 necrovalley (archetype)
 nekroz
 nemeses
@@ -493,25 +339,18 @@ number 10x
 number c
 number c10x
 number c39
-number f
 numeron
 numeron gate
 odd-eyes
 ogdoadic
 ojama
 old entity
-oni
 onomat
 orcust
 outer entity
-overlay (series)
-p (series)
 p.u.n.k.
-paladins of dragons
 paleozoic
-paleozoic fossil knight
 palladium
-panik's monsters
 parshath
 patissciel
 pendulum (archetype)
@@ -523,11 +362,8 @@ performapal
 phantasm
 phantasm spiral
 phantom beast
-phantom butterfly
 phantom knights
 photon
-piece golem
-plant princess
 plunder patroll
 polymerization (archetype)
 possessed
@@ -539,16 +375,13 @@ predaplant
 prediction princess
 primite
 prophecy
-protective seal
 psy-frame
 psy-framegear
 puppet
-puppet chess
 purrely
 qli
 r-genex
 ragnaraika
-raider's
 raidraptor
 rainbow bridge (archetype)
 rank-down-magic
@@ -556,87 +389,60 @@ rank-up-magic
 reactor
 rebellion (archetype)
 recipe
-recolored counterpart
 red dragon archfiend (archetype)
 red-eyes
 regenesis
 relinquished (archetype)
 reptilianne
-rescue squad
 rescue-ace
 resonator
-rider
 rikka
-risebell
 ritual beast
 ritual beast tamer
 ritual beast ulti
-robo
 roid
 rokket
 roland (archetype)
 rose
 rose dragon
-royal
-ruin & demise
 runick
 ryu-ge
-ryu-kishin (series)
 ryzeal
 s-force
 saber
-sacred beast
 salamandra (archetype)
 salamangreat
-sangen
-sarcophagus
-sasuke samurai (series)
-satellite (series)
 scareclaw
 schoolwork
 scrap
-scrap-iron
 sea stealth
-sealing ceremony
 secret six samurai
 sennen
-series
 seventh
 shaddoll
 shark (archetype)
 shark drake
 shien
-shining sarcophagus (series)
-shinobird
 shiranui
 shiranui spectralsword (archetype)
-signer dragon
 silent magician (archetype)
 silent swordsman (archetype)
 simorgh
 sinful spoils
 six samurai
 six strike
-skilled magician
-skull archfiend
 skull guardian (archetype)
-sky scourge
 sky striker
 sky striker ace
 skyblaster
 skyscraper (archetype)
 smile
 snake-eye
-snow
-solemn
 solfachord
-sparrow family
 speedroid
 spellbook
 sphinx
-spider
 spirit message
-spiritual art
 spiritual beast
 spiritual earth art
 spiritual fire art
@@ -648,21 +454,15 @@ sprout
 spyral
 spyral gear
 spyral mission
-star (series)
-star god
 star seraph
 stardust (archetype)
-starliege
 starry knight
 starving venom
 stealth kragen
 steelswarm
 stellarknight
-stygian
 subterror
 subterror behemoth
-summon restriction
-summoner
 sunavalon
 sunseed
 sunvine
@@ -670,12 +470,10 @@ super defense robot
 super quant
 super quantal mech beast
 super quantum
-supercolossal
 superheavy samurai
 superheavy samurai soul
 supreme king dragon
 supreme king gate
-swarm of
 swordsoul
 sylvan
 symphonic warrior
@@ -686,53 +484,30 @@ t.g.
 tachyon
 tearlaments
 tellarknight
-tennis
 tenpai dragon
 tenyi
-test
 the agent
-the dragon of
 the phantom knights
-the sanctuary in the sky (series)
 the weather
-the winged dragon of ra (archetype)
 therion
-thousand needles (series)
-three musketeers of face cards
 thunder dragon (archetype)
-timaeus (series)
 time thief
 timelord
 tindangle
 tistina
-toad
-token celebration
-tomato
 toon
-topologic
 toy
-train
-transcendosaurus
 trap hole (archetype)
-trap monster
 traptrix
-treasure cards
 tri-brigade
 triamid
 trickstar
 true draco
-turbo
-twilightsworn
-type booster
 u.a.
 ultimate crystal
-ultimate insect
-ultimate magical
 umbral horror
 unchained
 unchained soul
-underworld
-unicorn
 ursarctic
 utopia (archetype)
 utopic
@@ -740,9 +515,7 @@ utopic future
 vaalmonica
 valkyrie
 vampire
-vanity's
 vanquish soul
-vassal
 vaylantz
 veda
 vehicroid
@@ -751,7 +524,6 @@ venom
 vernusylph
 virtual world
 virtual world gate
-virus
 visas
 vision hero
 voiceless voice
@@ -765,35 +537,23 @@ wedju
 welcome labrynth (archetype)
 white aura
 white forest
-white night
-white warrior
-wicked god
-wight
 wind-up
 windwitch
 winged kuriboh (archetype)
 wingman
 witchcrafter
-with chain
-with eyes of blue
 world chalice
 world legacy
 worm
 x-saber
-xtra hero
-xx-saber
 xyz (archetype)
 xyz dragon
 yang zing
-yo-kai girl
 yosenju
 yubel (archetype)
 z-one (archetype)
 zefra
-zera
 zexal
-zexal shout
-zombie counterpart
 zoodiac
 zs -
 zubaba
