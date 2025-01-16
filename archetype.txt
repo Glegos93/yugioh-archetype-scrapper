@@ -1,560 +1,577 @@
-/Assault Mode
-@Ignister
-A.I.
-Abyss Actor
-Abyss Script
-Abyss-
-Adamancipator
-Advanced Crystal Beast
-Aesir
-Aether
-Alien
-Allure Queen
-Ally of Justice
-Altergeist
-Amazement
-Amazoness
-Amorphage
-Ancient Gear
-Ancient Warriors
-Apoqliphort
-Appliancer
-Aqua Jet (archetype)
-Aquaactress
-Aquamirror
-Aquarium
-Arcana Force
-Archfiend
-Armed Dragon
-Armored Xyz (archetype)
-Aroma
-Artifact
-Artorigus
-Ashened
-Assault Blackwing
-Atlantean
-Attraction
-Azamina
-B.E.S.
-Bamboo Sword
-Barbaros
-Barian's
-Batteryman
-Battleguard
-Battlewasp
-Battlin' Boxer
-Battlin' Boxing
-Beast's Battle
-Beetrooper
-Black Luster Soldier (archetype)
-Blackwing
-Blaze Accelerator (archetype)
-Blue Tears
-Blue-Eyes
-Bonding
-Borrel
-Bounzer
-Branded
-Bujin
-Burning Abyss
-Buster Blader (archetype)
-Butterspy
-Bystial
-CXyz
-Celtic Guard
-Centur-Ion
-Change
-Chaos
-Charmer
-Chemicritter
-Chronomaly
-Chrysalis
-Cipher
-Cipher Dragon
-Clear Wing
-Cloudian
-Code Talker (archetype)
-Codebreaker
-Constellar
-Counter (archetype)
-Crusadia
-Crystal
-Crystal Beast
-Crystron
-Cubic
-Cyber
-Cyber Angel
-Cyber Dragon (archetype)
-Cyberdark
-Cyberdark (Spell/Trap archetype)
-Cybernetic
-Cynet
-D/D
-D/D/D
-Danger!
-Dante
-Dark Contract
-Dark Magician (archetype)
-Dark Magician Girl (archetype)
-Dark Scorpion
-Dark World
-Darklord
-Darkness (archetype)
-Deskbot
-Despia
-Destiny HERO
-Destruction Sword
-Diabell
-Diabellstar
-Dinomist
-Dinomorphia
-Dinowrestler
-Djinn
-Dododo
-Dogmatika
-Doll Monster
-Doodle Beast
-Doodlebook
-Dracoslayer
-Dracoverlord
-Dragonmaid
-Dragunity
-Dream Mirror
-Drytron
-Dual Avatar
-Duston
-Earthbound
-Earthbound Immortal
-Edge Imp
-Elder Entity
-Eldlich
-Eldlixir
-Elemental HERO
-Elemental Lord
-Elementsaber
-Empowered Warrior
-Endymion
-Evil Eye
-Evil HERO
-Evil★Twin
-Evolsaur
-Evoltile
-Evolution Pill
-Evolzar
-Exodd
-Exodia
-Exosister
-Eyes Restrict
-F.A.
-Fabled
-Familiar-Possessed
-Favorite
-Fiendsmith
-Fire Fist
-Fire Formation
-Fire King
-Fire King Avatar
-Firewall (archetype)
-Fishborg
-Flamvell
-Floowandereeze
-Flower Cardian
-Fluffal
-Forbidden (archetype)
-Forbidden One
-Fortune Fairy
-Fortune Lady
-Fossil
-Frightfur
-Frog
-Fur Hire
-Fusion (archetype)
-Fusion Dragon
-G Golem
-Gadget
-Gagaga
-Gaia The Fierce Knight (archetype)
-Galaxy
-Galaxy-Eyes
-Galaxy-Eyes Tachyon Dragon
-Gandora (archetype)
-Gate Guardian (archetype)
-Geargia
-Geargiano (archetype)
-Gem-
-Gem-Knight
-Generaider
-Genex
-Ghostrick
-Ghoti
-Gimmick Puppet
-Gishki
-Gladiator
-Gladiator Beast
-Goblin
-Goblin Biker
-Gogogo
-Gold Pride
-Golden Land
-Gottoms
-Gouki
-GranSolfachord
-Gravekeeper's
-Graydle
-Guardian
-Gunkan
-Gusto
-HERO
-Harpie
-Hazy
-Hazy Flame
-Heart
-Heraldic Beast
-Heraldry
-Heroic
-Heroic Challenger
-Hex-Sealed Fusion
-Hieratic
-Hole
-Horus
-Horus the Black Flame Dragon
-Hyperion
-Ice Barrier
-Icejade
-Igknight
-Impcantation
-Infernity
-Infernoble Arms
-Infernoble Knight
-Infernoid
-Infestation
-Infinitrack
-Inmato (archetype)
-Invoked
-Inzektor
-Iron Chain
-Jinzo (archetype)
-Junk
-Jurrac
-Kaiju
-Kairyu-Shin (archetype)
-Karakuri
-Kashtira
-Ki-sikil
-Knightmare
-Koa'ki Meiru
-Koala
-Kozmo
-Krawler
-Kuriboh (archetype)
-LV
-Labrynth
-Labyrinth Wall (archetype)
-Lady of Lament
-Laundsallyn
-Laval
-Legendary Dragon
-Legendary Knight
-Libromancer
-Lightsworn
-Lil-la
-Live☆Twin
-Lswarm
-Lunalight
-Lyrilusc
-Machina
-Machine Angel
-Madolche
-Magical Musket
-Magician
-Magician Girl
-Magikey
-Magistus
-Magna Warrior
-Magnet Warrior
-Majespecter
-Majestic
-Malefic
-Malicevorous
-Maliss
-Mannadium
-Marincess
-Masked HERO
-Materiactor
-Mathmech
-Mayakashi
-Mecha Phantom Beast
-Megalith
-Mekk-Knight
-Meklord
-Meklord Army
-Meklord Astro
-Meklord Emperor
-Melffy
-Melodious
-Melodious Maestra
-Memento
-Mermail
-Metalfoes
-Metalmorph (archetype)
-Metaphys
-Mikanko
-Millennium
-Mimighoul
-Mireniamu
-Mist Valley
-Mokey Mokey (archetype)
-Monarch (Spell/Trap archetype)
-Morganite
-Morphtronic
-Mulcharmy
-Mystical Beast of the Forest
-Mystical Spirit of the Forest
-Mythical Beast
-Myutant
-Naturia
-Necrovalley (archetype)
-Nekroz
-Nemeses
-Nemleria
-Neo Space (archetype)
-Neo-Spacian
-Neos
-Nephthys
-Nimble
-Ninja
-Ninjitsu Art
-Nitro
-Noble Arms
-Noble Knight
-Nordic
-Nordic Alfar
-Nordic Ascendant
-Nordic Beast
-Nordic Relic
-Nouvelles
-Number
-Number (Spell/Trap archetype)
-Number 10X
-Number C
-Number C10X
-Number C39
-Numeron
-Numeron Gate
-Odd-Eyes
-Ogdoadic
-Ojama
-Old Entity
-Onomat
-Orcust
-Outer Entity
-P.U.N.K.
-PSY-Frame
-PSY-Framegear
-Paleozoic
-Palladium
-Parshath
-Patissciel
-Pendulum (archetype)
-Pendulum Dragon
-Pendulumgraph
-Penguin
-Performage
-Performapal
-Phantasm
-Phantasm Spiral
-Phantom Beast
-Phantom Knights
-Photon
-Plunder Patroll
-Polymerization (archetype)
-Possessed
-Potan
-Power Tool
-Prank-Kids
-Predap
-Predaplant
-Prediction Princess
-Primite
-Prophecy
-Puppet
-Purrely
-Qli
-R-Genex
-Ragnaraika
-Raidraptor
-Rainbow Bridge (archetype)
-Rank-Down-Magic
-Rank-Up-Magic
-Reactor
-Rebellion (archetype)
-Recipe
-Red Dragon Archfiend (archetype)
-Red-Eyes
-Regenesis
-Relinquished (archetype)
-Reptilianne
-Rescue-ACE
-Resonator
-Rikka
-Ritual Beast
-Ritual Beast Tamer
-Ritual Beast Ulti
-Roid
-Rokket
-Roland (archetype)
-Rose
-Rose Dragon
-Runick
-Ryu-Ge
-Ryzeal
-S-Force
-SPYRAL
-SPYRAL GEAR
-SPYRAL MISSION
-Saber
-Salamandra (archetype)
-Salamangreat
-Scareclaw
-Schoolwork
-Scrap
-Sea Stealth
-Secret Six Samurai
-Sennen
-Seventh
-Shaddoll
-Shark (archetype)
-Shark Drake
-Shien
-Shiranui
-Shiranui Spectralsword (archetype)
-Silent Magician (archetype)
-Silent Swordsman (archetype)
-Simorgh
-Sinful Spoils
-Six Samurai
-Six Strike
-Skull Guardian (archetype)
-Sky Striker
-Sky Striker Ace
-Skyblaster
-Skyscraper (archetype)
-Smile
-Snake-Eye
-Solfachord
-Speedroid
-Spellbook
-Sphinx
-Spirit Message
-Spiritual Beast
-Spiritual Earth Art
-Spiritual Fire Art
-Spiritual Water Art
-Spiritual Wind Art
-Spright
-Springans
-Sprout
-Star Seraph
-Stardust (archetype)
-Starry Knight
-Starving Venom
-Stealth Kragen
-Steelswarm
-Stellarknight
-Subterror
-Subterror Behemoth
-Sunavalon
-Sunseed
-Sunvine
-Super Defense Robot
-Super Quant
-Super Quantal Mech Beast
-Super Quantum
-Superheavy Samurai
-Superheavy Samurai Soul
-Supreme King Dragon
-Supreme King Gate
-Swordsoul
-Sylvan
-Symphonic Warrior
-Synchro (archetype)
-Synchro Dragon
-Synchron
-T.G.
-Tachyon
-Tearlaments
-Tellarknight
-Tenpai Dragon
-Tenyi
-The Agent
-The Phantom Knights
-The Weather
-Therion
-Thunder Dragon (archetype)
-Time Thief
-Timelord
-Tindangle
-Tistina
-Toon
-Toy
-Trap Hole (archetype)
-Traptrix
-Tri-Brigade
-Triamid
-Trickstar
-True Draco
-U.A.
-Ultimate Crystal
-Umbral Horror
-Unchained
-Unchained Soul
-Ursarctic
-Utopia (archetype)
-Utopic
-Utopic Future
-Vaalmonica
-Valkyrie
-Vampire
-Vanquish Soul
-Vaylantz
-Veda
-Vehicroid
-Vendread
-Venom
-Vernusylph
-Virtual World
-Virtual World Gate
-Visas
-Vision HERO
-Voiceless Voice
-Void
-Volcanic
-Vylon
-War Rock
-Warrior (archetype)
-Watt
-Wedju
-Welcome Labrynth (archetype)
-White Aura
-White Forest
-Wind-Up
-Windwitch
-Winged Kuriboh (archetype)
-Wingman
-Witchcrafter
-World Chalice
-World Legacy
-Worm
-X-Saber
-Xyz (archetype)
-Xyz Dragon
-Yang Zing
-Yosenju
-Yubel (archetype)
-Z-ONE (archetype)
-ZS -
-ZW -
-Zefra
-Zexal
-Zoodiac
-Zubaba
+/assault mode
+@ignister
+a.i.
+abyss actor
+abyss script
+abyss-
+adamancipator
+advanced crystal beast
+aesir
+aether
+alien
+allure queen
+ally of justice
+altergeist
+amazement
+amazoness
+amorphage
+ancient gear
+ancient gear golem (archetype)
+ancient warriors
+apoqliphrt
+appliancer
+aqua jet (archetype)
+aquaactress
+aquamirror
+aquarium
+arcana force
+archetype
+archfiend
+argostars
+armed dragon
+armored xyz (archetype)
+aroma
+artifact
+artorigus
+ashened
+assault blackwing
+atlantean
+attraction
+azamina
+b.e.s.
+bamboo sword
+barbaros
+barian's
+batteryman
+battleguard
+battlewasp
+battlin' boxer
+battlin' boxing
+beast's battle
+beetrooper
+black luster soldier (archetype)
+blackwing
+blaze accelerator (archetype)
+blue tears
+blue-eyes
+bonding
+borrel
+bounzer
+branded
+bujin
+burning abyss
+buster blader (archetype)
+butterspy
+bystial
+celtic guard
+centur-ion
+change
+chaos
+chaos (series)
+charmer
+chemicritter
+chronomaly
+chrysalis
+cipher
+cipher dragon
+clear
+clear wing
+cloudian
+code talker (archetype)
+codebreaker
+constellar
+counter (archetype)
+crusadia
+crystal
+crystal beast
+crystron
+cubic
+cxyz
+cyber
+cyber angel
+cyber dragon (archetype)
+cyberdark
+cyberdark (spell/trap archetype)
+cybernetic
+cynet
+d/d
+d/d/d
+danger!
+dante
+dark contract
+dark magician (archetype)
+dark magician girl (archetype)
+dark scorpion
+dark tuner (archetype)
+dark world
+darklord
+deskbot
+despia
+destiny hero
+destruction sword
+diabell
+diabellstar
+dinomist
+dinomorphia
+dinowrestler
+djinn
+dododo
+dogmatika
+doll monster
+doodle beast
+doodlebook
+dracoslayer
+dracoverlord
+dragon ruler
+dragonmaid
+dragunity
+dream mirror
+drytron
+dual avatar
+duel dragon
+duston
+earthbound
+earthbound immortal
+edge imp
+elder entity
+eldlich
+eldlixir
+elemental hero
+elemental lord
+elementsaber
+emblema
+empowered warrior
+endymion
+evil eye
+evil hero
+evil★twin
+evolsaur
+evoltile
+evolution pill
+evolzar
+exodd
+exodia
+exosister
+eyes restrict
+f.a.
+fabled
+familiar-possessed
+favorite
+fiendsmith
+fire fist
+fire formation
+fire king
+fire king avatar
+firewall (archetype)
+fishborg
+flamvell
+floowandereeze
+flower cardian
+fluffal
+forbidden (archetype)
+forbidden one
+fortress whale (archetype)
+fortune fairy
+fortune lady
+fossil
+frightfur
+frog
+fur hire
+fusion (archetype)
+fusion dragon
+g golem
+gadget
+gagaga
+gaia the dragon champion (archetype)
+gaia the fierce knight (archetype)
+galaxy
+galaxy-eyes
+galaxy-eyes tachyon dragon
+gandora (archetype)
+gate guardian (archetype)
+geargia
+geargiano (archetype)
+gem-
+gem-knight
+generaider
+genex
+ghostrick
+ghoti
+gimmick puppet
+gishki
+gladiator
+gladiator beast
+goblin
+goblin biker
+gogogo
+gold pride
+golden land
+gottoms
+gouki
+gransolfachord
+gravekeeper's
+graydle
+guardian
+gunkan
+gusto
+harpie
+hazy
+hazy flame
+heart
+helios
+heraldic beast
+heraldry
+hero
+heroic
+heroic challenger
+hieratic
+hole
+horus
+horus the black flame dragon
+hyperion
+ice barrier
+icejade
+igknight
+impcantation
+infernity
+infernoble arms
+infernoble knight
+infernoid
+infestation
+infinitrack
+inmato (archetype)
+insect queen (archetype)
+invoked
+inzektor
+iron chain
+jinzo (archetype)
+junk
+jurrac
+kaiju
+kairyu-shin (archetype)
+kangaroo
+karakuri
+kashtira
+ki-sikil
+knightmare
+koa'ki meiru
+koala
+kozmo
+krawler
+kuriboh (archetype)
+labrynth
+labyrinth wall (archetype)
+lady of lament
+laundsallyn
+laval
+legendary dragon
+legendary knight
+libromancer
+lightsworn
+lil-la
+live☆twin
+lswarm
+lunalight
+lv
+lyrilusc
+machina
+machine angel
+madolche
+magical musket
+magician
+magician girl
+magikey
+magistus
+magna warrior
+magnet warrior
+majespecter
+majestic
+malefic
+malicevorous
+maliss
+mannadium
+marincess
+masked hero
+materiactor
+mathmech
+mayakashi
+mecha phantom beast
+megalith
+mekk-knight
+meklord
+meklord army
+meklord astro
+meklord emperor
+melffy
+melodious
+melodious maestra
+memento
+mermail
+metalfoes
+metalmorph (archetype)
+metaphys
+mikanko
+millennium
+mimighoul
+mireniamu
+mist valley
+mitsurugi
+mokey mokey (archetype)
+monarch (spell/trap archetype)
+morganite
+morphtronic
+mulcharmy
+mystical beast of the forest
+mystical spirit of the forest
+mythical beast
+myutant
+naturia
+necrovalley (archetype)
+nekroz
+nemeses
+nemleria
+neo space (archetype)
+neo-spacian
+neos
+nephthys
+nimble
+ninja
+ninjitsu art
+nitro
+noble arms
+noble knight
+nordic
+nordic alfar
+nordic ascendant
+nordic beast
+nordic relic
+nouvelles
+number
+number (spell/trap archetype)
+number 10x
+number c
+number c10x
+number c39
+numeron
+numeron gate
+odd-eyes
+ogdoadic
+ojama
+old entity
+onomat
+orcust
+outer entity
+p.u.n.k.
+paleozoic
+palladium
+parshath
+patissciel
+pendulum (archetype)
+pendulum dragon
+pendulumgraph
+penguin
+performage
+performapal
+phantasm
+phantasm spiral
+phantom beast
+phantom butterfly
+phantom knights
+photon
+plunder patroll
+polymerization (archetype)
+possessed
+potan
+power tool
+prank-kids
+predap
+predaplant
+prediction princess
+primite
+prophecy
+psy-frame
+psy-framegear
+puppet
+purrely
+qli
+r-genex
+ragnaraika
+raidraptor
+rainbow bridge (archetype)
+rank-down-magic
+rank-up-magic
+reactor
+rebellion (archetype)
+recipe
+red dragon archfiend (archetype)
+red-eyes
+regenesis
+relinquished (archetype)
+reptilianne
+rescue-ace
+resonator
+rikka
+ritual beast
+ritual beast tamer
+ritual beast ulti
+roid
+rokket
+roland (archetype)
+rose
+rose dragon
+runick
+ryu-ge
+ryzeal
+s-force
+saber
+salamandra (archetype)
+salamangreat
+sangen
+scareclaw
+schoolwork
+scrap
+sea stealth
+secret six samurai
+sennen
+seventh
+shaddoll
+shark (archetype)
+shark drake
+shien
+shiranui
+shiranui spectralsword (archetype)
+silent magician (archetype)
+silent swordsman (archetype)
+simorgh
+sinful spoils
+six samurai
+six strike
+skull guardian (archetype)
+sky striker
+sky striker ace
+skyblaster
+skyscraper (archetype)
+smile
+snake-eye
+solfachord
+speedroid
+spellbook
+sphinx
+spirit message
+spiritual beast
+spiritual earth art
+spiritual fire art
+spiritual water art
+spiritual wind art
+spright
+springans
+sprout
+spyral
+spyral gear
+spyral mission
+star seraph
+stardust (archetype)
+starry knight
+starving venom
+stealth kragen
+steelswarm
+stellarknight
+subterror
+subterror behemoth
+sunavalon
+sunseed
+sunvine
+super defense robot
+super quant
+super quantal mech beast
+super quantum
+superheavy samurai
+superheavy samurai soul
+supreme king dragon
+supreme king gate
+swordsoul
+sylvan
+symphonic warrior
+synchro (archetype)
+synchro dragon
+synchron
+t.g.
+tachyon
+tearlaments
+tellarknight
+tenpai dragon
+tenyi
+the agent
+the phantom knights
+the weather
+the winged dragon of ra (archetype)
+therion
+thunder dragon (archetype)
+time thief
+timelord
+tindangle
+tistina
+toon
+topologic
+toy
+trap hole (archetype)
+traptrix
+tri-brigade
+triamid
+trickstar
+true draco
+u.a.
+ultimate crystal
+umbral horror
+unchained
+unchained soul
+ursarctic
+utopia (archetype)
+utopic
+utopic future
+vaalmonica
+valkyrie
+vampire
+vanquish soul
+vaylantz
+veda
+vehicroid
+vendread
+venom
+vernusylph
+virtual world
+virtual world gate
+visas
+vision hero
+voiceless voice
+void
+volcanic
+vylon
+war rock
+warrior (archetype)
+watt
+wedju
+welcome labrynth (archetype)
+white aura
+white forest
+wind-up
+windwitch
+winged kuriboh (archetype)
+wingman
+witchcrafter
+world chalice
+world legacy
+worm
+x-saber
+xyz (archetype)
+xyz dragon
+yang zing
+yosenju
+yubel (archetype)
+z-one (archetype)
+zefra
+zexal
+zoodiac
+zs -
+zubaba
+zw -

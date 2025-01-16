@@ -1,131 +1,223 @@
--Eyes Dragon
-A-to-Z
-Adventurer
-Albaz Dragon
-Ancient Fairy Dragon (series)
-Anotherverse
-Backup
-Black (series)
-Bombardment
-Book of
-Broken World
-Burning Skull
-Captain
-Cataclysmic Charmer
-Chaos (series)
-Chimera
-Chimeratech
-Circular
-Clear
-Contact (series)
-Corn
-Counter Fairy
-Crashbug
-Creator
-Cular
-D.D.
-Dark Blade (series)
-Dark counterpart
-Deep Sea
-Digital Bug
-Djinn of Rituals
-Doriado (series)
-Draconia
-Dragon Ninja
-Drain
-Duel Dragon
-Earthbound Servant
-Effigy
-Egyptian God
-Element
-Entity
-Evol
-Evolving Numbers
-Exchange of the Spirit (series)
-Fairy Tail
-Felgrand
-Field Searcher
-Flame Swordsman (series)
-Fleur
-Foolish
-Force
-Four Dimensional Dragons
-Freed
-From the Underworld
-Gem Dragon
-Glacial Beast
-Gorgonic
-Goyo
-Greed (series)
-Grepher
-Guardragon
-Gun Dragon
-Helios
-Herald
-Heroic Champion
-Hunder
-Keeper
-King Rex (series)
-Konami Arcade Games
-Legendary Six Samurai
-Light and Darkness Dragon (series)
-Machine King (series)
-Man-Eater Bug (series)
-Mask
-Match winner
-Mirror Trap (series)
-Monarch
-Monk
-Motor
-Mythical Dragon
-Mythyrian Numbers
-Name-Inverted Spiritualist
-Overlay (series)
-P (series)
-Paladins of Dragons
-PaniK's monsters
-Piece Golem
-Plant Princess
-Protective Seal
-Raider's
-Recolored counterpart
-Rescue Squad
-Robo
-Ruin & Demise
-Sacred Beast
-Sarcophagus
-Sasuke Samurai (series)
-Scrap-Iron
-Shining Sarcophagus (series)
-Signature move
-Signer Dragon
-Skilled Magician
-Sky Scourge
-Slime
-Solemn
-Spider
-Spiritual Art
-Star (series)
-Star God
-Swarm of
-The Sanctuary in the Sky (series)
-The Winged Dragon of Ra (archetype)
-Toad
-Trap Monster
-Treasure Cards
-Turbo
-Twilightsworn
-Ultimate Insect
-Ultimate Magical
-Umi (series)
-Underworld
-Unicorn
-Vanity's
-Vassal
-Virus
-White
-Wicked God
-Wight
-Yo-kai Girl
-ZEXAL shout
-Zombie counterpart
+"c"
+-eyes dragon
+25th anniversary monsters
+a-to-z
+adventurer
+aged counterpart
+albaz dragon
+ancient fairy dragon (series)
+ancient treasure
+anotherverse
+ape
+armor ninja
+attribute booster
+attribute knight
+attribute reptile
+attribute spirit
+attribute summoner
+baboon of the forest
+backup
+barrier statue
+black (series)
+bombardment
+book of
+boot-up
+broken world
+bugroth
+burning skull
+c/c
+captain
+cataclysmic
+cataclysmic charmer
+cenozoic fossil knight
+chimera
+chimeratech
+chthonian
+circular
+coach
+contact (series)
+corn
+cosmic synchro monster
+counter fairy
+crashbug
+creator
+cular
+cup
+cupid
+curse of dragon (series)
+cyber girl
+d.d.
+dark blade (series)
+dark counterpart
+dark lucius
+darkness (archetype)
+deep sea
+designator
+digital bug
+dimension (series)
+divine dragon
+dizzy
+djinn of rituals
+dna
+dog marron
+doriado (series)
+draconia
+dragon ninja
+drain
+duel winner
+effigy
+egyptian god
+element
+empower
+entity
+evigishki
+evo-
+evol
+evolving numbers
+exchange of the spirit (series)
+fairy tail
+fairy tale (anime)
+fan-made cards
+felgrand
+field searcher
+flame swordsman (series)
+fleur
+foolish
+force
+four dimensional dragons
+freed
+from the underworld
+g.o.d. (series)
+gaia knight
+gearfried
+gem dragon
+genex ally
+geometric knight
+gigo
+gizmek
+glacial beast
+greed (series)
+grepher
+guardragon
+gun dragon
+gun ogre
+hecate
+herald
+hex-sealed fusion
+huge revolution (series)
+inca
+infection
+inpachi (series)
+itsu
+jar
+keeper
+king rex (series)
+konami arcade games
+legendary planet
+legendary six samurai
+light and darkness dragon (series)
+lightray
+loan
+machine king (series)
+madoor
+majestic mech
+maju
+man-eater bug (series)
+martial art spirit
+mask
+masked knight
+material (series)
+mesozoic fossil knight
+mirror trap (series)
+monk
+moth
+motor worm
+mystic
+mystic (manga)
+mystic swordsman
+mythical dragon
+mythyrian numbers
+name-inverted spiritualist
+necro
+number f
+oni
+overlay (series)
+p (series)
+paladins of dragons
+paleozoic fossil knight
+panik's monsters
+piece golem
+plant princess
+protective seal
+puppet chess
+raider's
+recolored counterpart
+rescue squad
+rider
+risebell
+robo
+royal
+ruin & demise
+ryu-kishin (series)
+sacred beast
+sarcophagus
+sasuke samurai (series)
+satellite (series)
+scrap-iron
+sealing ceremony
+series
+shining sarcophagus (series)
+shinobird
+signer dragon
+skilled magician
+skull archfiend
+sky scourge
+snow
+solemn
+sparrow family
+spider
+spiritual art
+star (series)
+star god
+starliege
+stygian
+summon restriction
+summoner
+supercolossal
+swarm of
+tennis
+test
+the dragon of
+the sanctuary in the sky (series)
+thousand needles (series)
+three musketeers of face cards
+timaeus (series)
+toad
+token celebration
+tomato
+train
+transcendosaurus
+trap monster
+treasure cards
+turbo
+twilightsworn
+type booster
+ultimate insect
+ultimate magical
+underworld
+unicorn
+vanity's
+vassal
+virus
+white night
+white warrior
+wicked god
+wight
+with chain
+with eyes of blue
+xtra hero
+xx-saber
+yo-kai girl
+zera
+zexal shout
+zombie counterpart

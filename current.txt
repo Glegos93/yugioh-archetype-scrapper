@@ -1,5 +1,5 @@
 @ignister
-/assault Mode
+/assault mode
 a-to-z
 abyss actor
 adamancipator
@@ -64,7 +64,7 @@ dark world
 darklord
 deep sea
 deskbot
-Despia
+despia
 destiny hero
 digital bug
 dinomist
@@ -101,7 +101,7 @@ fabled
 fairy tail
 fairy tale
 fire fist
-fire King
+fire king
 flamvell
 fleur
 floowandereeze
@@ -159,7 +159,7 @@ igknight
 impcantation
 infernity
 infernoble knight
-Infernoid
+infernoid
 infinitrack
 invoked
 inzektor
@@ -251,7 +251,7 @@ plunder patroll
 prank-kids
 predaplant
 prediction princess
-psy-Frame
+psy-frame
 psychic*
 purrely
 qli
@@ -275,7 +275,7 @@ salamangreat
 scareclaw
 scrap
 shaddoll
-shark (series)
+shark (archetype)
 shinobird
 shiranui
 silent*
@@ -293,7 +293,7 @@ spright
 springans
 spyral
 star seraph
-starry Knight
+starry knight
 stygian
 subterror
 sunavalon
@@ -302,8 +302,8 @@ super quant
 superheavy samurai
 supreme king
 swordsman(archetype)*
-Swordsoul
-Sylvan
+swordsoul
+sylvan
 symphonic warrior
 synchron
 t.g.
@@ -312,14 +312,14 @@ tellarknight
 tenyi
 the agent
 the weather
-the winged dragon of ra (series)
+the winged dragon of ra (archetype)
 therion
 three musketeers of face cards
 thunder dragon (archetype)
 time thief
 timelord
 tindangle
-Tistina
+tistina
 toon
 train
 traptrix
@@ -333,7 +333,7 @@ umbral horror
 umi (series)
 unchained
 ursarctic
-utopia / onomat
+utopia (archetype)
 valkyrie
 vampire
 vanquish soul
@@ -343,15 +343,15 @@ vehicroid
 vendread
 venom
 vernusylph
-virtual World
+virtual world
 visas
 vision hero
 volcanic
 vylon
-war Rock
+war rock
 watt
 wight
-wind-Up
+wind-up
 windwitch
 witchcrafter
 world chalice
@@ -368,8 +368,8 @@ zubaba
 zw -
 yubel (archetype)
 flame swordsman (series)
-white fish
+white
 illusion
 stardust (archetype)
-"C"
-Goblin Bikers
+"c"
+goblin biker
