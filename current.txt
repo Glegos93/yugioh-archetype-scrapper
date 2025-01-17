@@ -82,7 +82,7 @@ dream mirror
 drytron
 dual avatar
 duston
-earthbound immortal
+earthbound
 edge imp
 egyptian god
 eldlich
@@ -373,3 +373,4 @@ illusion
 stardust (archetype)
 "c"
 goblin biker
+attribute gang

@@ -3,6 +3,7 @@ import urllib.parse
 from archetype import scrape_archetype
 from series import scrape_series
 from google_sheets import get_google_sheets_data  # Import the Google Sheets function
+from ignore import ignore_from_archetype, ignore_from_series  # Import the ignore lists
 
 def write_to_file(filename, data):
     with open(filename, 'w') as file:
@@ -19,8 +20,8 @@ def read_from_file(filename):
 
 # Define the URLs
 # Do not change the following URLs
-archetype_url = 'https://yugipedia.com/wiki/Category:TCG_and_OCG_archetypes'
-series_url = 'https://yugipedia.com/wiki/Category:TCG_and_OCG_archetypes'
+archetype_url = 'https://yugipedia.com/wiki/Category:archetypes'
+series_url = 'https://yugipedia.com/wiki/Category:series'
 current_file = 'current.txt'
 series_url_anime_manga = 'https://yugipedia.com/wiki/Category:Anime_and_manga_only_series'
 series_url_rush_duel = 'https://yugipedia.com/wiki/Category:Rush_Duel_series'
@@ -52,6 +53,7 @@ while True:
         archetype_titles = scrape_archetype(archetype_url)
         anime_manga_archetype_titles = scrape_archetype(archetype_url_anime_manga)
         filtered_titles = [title for title in archetype_titles if "(anime)" not in title.lower() and title.lower() not in (title.lower() for title in anime_manga_archetype_titles)]
+        filtered_titles = [title for title in filtered_titles if title.lower() not in (title.lower() for title in ignore_from_archetype)]
         sorted_titles = sorted(set(title.lower() for title in filtered_titles))
         write_to_file('archetype.txt', sorted_titles)
         print("Archetype data written to archetype.txt")
@@ -63,6 +65,7 @@ while True:
         filtered_titles = [title for title in series_titles if "(rush duel)" not in title.lower() and "(dm series)" not in title.lower()]
         filtered_titles = [title for title in filtered_titles if title.lower() not in (title.lower() for title in anime_manga_titles)]
         filtered_titles = [title for title in filtered_titles if title.lower() not in (title.lower() for title in rush_duel_titles)]
+        filtered_titles = [title for title in filtered_titles if title.lower() not in (title.lower() for title in ignore_from_series)]
         sorted_titles = sorted(set(title.lower() for title in filtered_titles))
         write_to_file('series.txt', sorted_titles)
         print("Series data written to series.txt")
